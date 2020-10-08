@@ -1,1 +1,1 @@
-# Pandas Pprofiling Examples
+# Pandas Profiling Examples
